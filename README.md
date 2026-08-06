@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borailci&show_icons=true&hide_border=true&theme=transparent&hide=issues&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borailci&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="150" />
-</p>
-
 ### Selected work
 
 **[deep-agent-backend](https://github.com/borailci/deep-agent-backend)** · Python — graduation project
