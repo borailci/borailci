@@ -18,7 +18,7 @@
 ### Selected work
 
 **[deep-agent-backend](https://github.com/borailci/deep-agent-backend)** · Python — graduation project
-Deep Agentic Search for Repository-Level Code Question Answering: An Empirical Study, system built on LangGraph Deep Agents, comparing two different specialized agentic AI pipelines. RAG pipeline over Qdrant and Vertex AI with reranking, agent memory, and automatic wiki generation. Chat frontend in [deep-agent-ui](https://github.com/borailci/deep-agent-ui) (Next.js).
+Deep Agentic Search for Repository-Level Code Question Answering: An Empirical Study, system built on LangGraph Deep Agents, comparing two different specialized agentic AI pipelines. RAG pipeline over Qdrant and Vertex AI with reranking, agent memory, and automatic wiki generation. Chat frontend in [deep-agent-ui](https://github.com/borailci/deep-agent-ui) (Next.js). https://arxiv.org/abs/2608.01507
 
 **[Real-Time Hand Gesture Recognition](https://github.com/borailci/EARIN_Labs/tree/main/project)** · Python, PyTorch
 CNN classifying 10 hand gestures from webcam input, with MediaPipe for hand detection. 99.82% validation accuracy at under 3ms inference. Built for the Introduction to AI course at Warsaw University of Technology.
